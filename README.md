@@ -1,11 +1,11 @@
 <!-- ░░░ HEADER ░░░ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nitin%20Gupta&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20%E2%80%A2%20Tech%20Lead%20%E2%80%A2%20Web3%20%E2%80%A2%20AI%20Tooling&descAlignY=58&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nitin%20Gupta&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Agentic%20Architect%20%E2%80%A2%20Blockchain%20Architect%20%E2%80%A2%20Full%20Stack%20Tech%20Lead&descAlignY=58&descSize=18" alt="header" />
 </p>
 
 <p align="center">
   <a href="https://github.com/nitingpt000">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&lines=I+build+fast%2C+scalable+products+end-to-end;TypeScript+%E2%80%A2+React+%E2%80%A2+Node+%E2%80%A2+NestJS;Smart+contracts+on+EVM%2C+Solana%2C+Move;Now+hacking+on+AI+agents+%26+Claude+Code+mods+%F0%9F%A4%96" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&lines=Agentic+Architect+%F0%9F%A4%96+%E2%80%A2+Blockchain+Architect+%E2%9B%93%EF%B8%8F;I+build+fast%2C+scalable+products+end-to-end;Designing+multi-agent+systems+that+ship;TypeScript+%E2%80%A2+React+%E2%80%A2+Node+%E2%80%A2+NestJS;Smart+contracts+on+EVM%2C+Solana%2C+Move;Now+hacking+on+AI+agents+%26+Claude+Code+mods+%F0%9F%A4%96" alt="typing" />
   </a>
 </p>
 
@@ -22,12 +22,14 @@
 
 ```ts
 const nitin = {
-  role:       "Full Stack Developer · Tech Lead",
+  role:       ["Agentic Architect", "Blockchain Architect", "Full Stack Tech Lead"],
   location:   "🌍 Remote",
   shipping:   ["Offline-first apps", "Web3 platforms", "AI-powered dev tools"],
   stack:      { frontend: ["React", "Next.js"], backend: ["Node", "NestJS"], chain: ["Solidity", "Rust", "Move"] },
   infra:      ["Docker", "Kubernetes", "Terraform", "AWS", "GCP"],
-  askMeAbout: ["scaling systems", "performance tuning", "smart-contract design"],
+  agentic:    ["multi-agent orchestration", "tool use & MCP", "RAG", "LLM evals"],
+  blockchain: ["protocol & smart-contract architecture", "DAOs", "DeFi", "L1/L2 integrations"],
+  askMeAbout: ["agent architecture", "on-chain system design", "scaling systems"],
   funFact:    "I theme my AI coding assistant with ninja villages at dusk 🥷🌆",
 };
 ```
